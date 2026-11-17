@@ -32,4 +32,4 @@ git clone https://github.com/ТВІЙ_НІК/taskboard.git
 3. Запусти `index.html` через Live Server.
 ## Скріншот
 ![Головна сторінка](images/screenshot.png)
-[Відкрити сайт](https://ТВІЙ_НІК.github.io/taskboard/)
+[Відкрити сайт](https://yaroslav-oziichuk.github.io/taskboard/)
